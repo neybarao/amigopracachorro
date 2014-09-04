@@ -76,7 +76,7 @@ html, body {
 
 /* line 14, ../sass/screen.sass */
 body {
-  background: url("../gfx/tapume-repeat.png") center center repeat-x #fff;
+  background: url("../gfx/tapume-repeat.png") center center repeat-x;
   text-align: center;
 }
 
